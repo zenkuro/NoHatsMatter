@@ -11,3 +11,6 @@ LOC - line of code
 6. how much money are you willing to spend on reducing downtime of you business/daylyroutine by 5\%?
 7. what amount of your time or time of your company was wasted on handling malfunctions in free software?
 8. does you or you company have a written down stretegy regarding interaction with opensource software?
+9. what percent of software you post anualy is opensource?
+10. what is relation between code posted by you and your organization is opensource and propriatary
+11. if you have to choose between proprietary means of cyber protection and opensource one which would you chose? if you will not have to pay for proprietary one?
