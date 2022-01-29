@@ -1,15 +1,22 @@
-Models of software OpensSource
-        Traditiconal:
-            Opensource --- not sustainable opensource
-                one man army that fights to the death
-                nobody buyes
+# Models of software OpensSource
 
-                donation through button
+##Traditiconal:
 
-            OpenSource with subscription (Canonicl, ExReadHat)
-                consulting services
+### Classical
+        (ssl)        
+        1. not sustainable opensource
+        2. one man army that fights to the death
+        3. nobody buyes
+        4. donation through button
+### Subscription/service business model
+        (Canonicl, ExReadHat)
+             
+### Sub project
+        (Android. chrome for google)
 
-            Employee Matched Donation Model: ->
+## Non Traditional
+
+### Employee Matched Donation Model
                 you wark for a company and if you donate money to opensource you employer doubles anount of money employee donated
                 YouDonate X, Google donates 2*X
                 pros: company does not lose money if they do that before paying taxes
