@@ -14,3 +14,6 @@ LOC - line of code
 9. what percent of software you post anualy is opensource?
 10. what is relation between code posted by you and your organization is opensource and propriatary
 11. if you have to choose between proprietary means of cyber protection and opensource one which would you chose? if you will not have to pay for proprietary one?
+12. how much time are you spending on understanding local politics city/district level?
+13. how much time are you spending on analising district level expenses?
+14. cant you name 3 internal project conflicts that put a significant blow on opensource project?
