@@ -1,6 +1,6 @@
 # Models of software OpensSource
 
-##Traditiconal:
+## Traditiconal:
 
 ### Classical
         (ssl)        
@@ -38,3 +38,6 @@
                 Hire opensource developers
                 It is public process of hiring opensource developer to 100\% opensource developer managment free
                 As a benefit people in company get company and inspiration just like opensource developer
+
+## Refs:
+1. https://opensource.org/node/1009
