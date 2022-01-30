@@ -174,14 +174,35 @@ boosting the flow of resources in the directions that they see as right.
 This is just one of the usage scenarios for the graph. Visualization and tools will help to explore it for many other things, such as
 capacity building and "capacity overflow growth" that could be useful to onboard people for experiments with different Economic models.
 
+### Open Source Policy and Smart NDA Policy
 
-            OpenSourcePolicy --- Anti NDA OpenSoruce policy
-                When somebody coms to new company he signs NDA -> effectivly lose ability to contribute to projects
+When people are hired, the company usually (always?) forces to them to sign NDA, and even non-compete agreements, so the person
+effectively loses ability to contribute to projects. Even if those contributions reduce pile up of technical debt and costs of merging.
 
-                Clean NDA policy that allows developer to contribute
-                Company allows developers to spend X amount of hours to opensource project and be payed
+This happens, because laywers are ignorant, illerate, not being aware enough or persuasive enough to understand the difference between
+**core business value** of their startups. The value that is separates from the cost of development, maintenance and support of software
+that powers it. If you are a book shop, you core value is selling books, you approach to readers, unique design, engagement strategy.
+Fixing a broken payment module don't have to be under NDA. It is not why you competitors are better than you. If your book shop shares
+the fix with upstream, somebody else will spend this time of fixing another bug that will not appear in your project. It is not a zero
+sum game. Unless there is an NDA that effectively prevents you from committing anything anywhere without permission of your company.
 
-            Humans As Artefacts
-                Hire opensource developers
-                It is public process of hiring opensource developer to 100\% opensource developer managment free
-                As a benefit people in company get company and inspiration just like opensource developer
+If you, as a lawyer, could replace catch-all NDA policy with clean text that covers only the company repos and secrets that makes
+common sense, you will hace a great chance to attract not only people skilled in software development, but also those who care about
+what you do for real.
+
+If Smart NDA is restrictive document. **The Open Source Policy** is the opposite. It is an indicator of your culture - how do you
+treat the ecosystem gameplay and involvement. What are the rules that people from the Open Source community can read to feel themselve
+comfortable. If you want to showcase some of the economic models and experiments above, put them here.
+
+Clean NDA policy allows developer to contribute to upstream projects, but not share commercial secrets. Good Open Source Policy
+provides support funds for dependencies, and allows dedicated paid time to contributeupstread and integrate own patches back.
+
+### Humans As Artifacts
+
+Hire Open Source developers. But not as resources. Mentors, advisers, people to help estblish best practices in Open Source world
+and integrate with their products. Open Source people who are not completely detached from their community are more valuable for the
+ecosystem and future growth than they being ordinary coders. Sometimes you want to hang out with interesting people to exchanges
+experience, and it works in both ways. It enriches ecosystem. Makes the community aware of the problems of business, and business to
+become more about people. Preserving Open Source independecy is a great value. It can raise transparency of the processes, remove
+overly protective barriers that waste people time. It is an interesting challenge and experiment, and I leave out any hardcoded
+advice here, because maybe you already have something to share on this journey.
