@@ -131,18 +131,49 @@ companies who want to raise a culture that attract such people.
 ### Employee Matched Donation Model
 
 The model itself not new. Google and other companies had Open Source donation programs where for each $ that you donate to Open Source
-projects from your pocket, they placed addional matching value.
+projects from your pocket, they placed addional matching value. If you donate $5 they donate $5 etc. There are restrictions on to which
+companies you can donate. Probably not to individual Open Source projects.
 
-you wark for a company and if you donate money to opensource you employer doubles anount of money employee donated
-                YouDonate X, Google donates 2*X
-                pros: company does not lose money if they do that before paying taxes
+The hack we propose is to pay matched donation for employee before taxes. This way the donation that the person does, because the Open
+Source helps him with his job, will be doubled automatically, and it won't be only an option for big tech. The legal and technological
+base still need to be developed to make it accessible to any type of business.
 
-            X*egineers donations:
-                company calcualtes average salary of developer and spreds the sallary of this developer amoung it dependent projects
-                1/5 for startup --- ???
+### Dedicate one salary to Open Source dependencies
 
-            Open Weighted donation distribution graph
-                like https://en.liberapay.com
+By using Open Source you've already saved months of development (investors money) for your team. Advocating and making your investors
+aware, you allow them to make informed decisions, that let them attract top talents from Open Source communities, who care about giving
+back to their projects and support those who take over the maintenance for that time. That also gives you startup/company a chance to
+become a good friends with developers (Blender's mafia model), if one day you will need to fine tune your Linux to hold 190,541 players
+on one server (Wargaming).
+
+If one startup is pizze team of five, then 1/5 is the fair estimation of the value that Open Source already provided for you development
+team. Spreading this 5th share amoung dependencies of your projects is the right way to build healty ecosystem.
+
+### Weighted donation distribution graph
+
+Platforms like https://en.liberapay.com allow to distribute as little as $0.01 to different projects. Liberapay is a fork from Gratipay.
+Gratipay was a project that originated in US, but was shut down, because US law system protects PayPal at the cost of everybody else.
+Accused of being Money Transfer Business (MTB) with no license which costs about $500k for each state yearly, Gratipay had no choice
+other than to cease and desist. Read Gratipocalypse from the head of this doc. Liberapay is based in EU.
+
+On registration Gratipay gave each new user $1. The sum is too low to be serious, but high enough to give a person ability to set $0.01
+weekly donations to liked projects and people. No strings attached. The donations were open, transparent on the web site. When a person
+or project received donation, they could also decide to give it to somebody else. This gave us **the live graph of donation distribution**.
+There were sitations were people in Open Source community were experiencing life difficulties, being left without a job, with a heart
+stroke, with no corporate who could allocate money to aid them, and we've seen how the graph just in one week dynamically reallocated
+the stream to help those people.
+
+If we normalize weekly donation budget of each person to be 1.00 (or 100%) regardless of absolute value, then each donation from this
+person, like 0.01, will be a weight of distribution in the graph. On other words how important this specific project to this person in
+comparison to other projects, in %. Given the list of projects, an organization, fund, or another person can give money in absolute
+value to be distributed exactly the same.
+
+This allows maintainers to help their dependencies and projects that inspire them, indirectly through their expertise and trust,
+boosting the flow of resources in the directions that they see as right.
+
+This is just one of the usage scenarios for the graph. Visualization and tools will help to explore it for many other things, such as
+capacity building and "capacity overflow growth" that could be useful to onboard people for experiments with different Economic models.
+
 
             OpenSourcePolicy --- Anti NDA OpenSoruce policy
                 When somebody coms to new company he signs NDA -> effectivly lose ability to contribute to projects
