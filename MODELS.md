@@ -217,7 +217,7 @@ contains up to date info and history will makes it easier for people to build li
 Proposing, publishing, exhanganging experince. There is a lot of ideas that we can write here, once the problem is acknowledged
 widely enough to make the next steps.
 
-# Post hackaton write up
+# Hackaton wrap up
 
 We've got a feedback, from which we've concluded that the problem of Open Source Sustainability is poorly represented in business,
 investment and government circles. And although we've got a lot of support to continue our activity, because "you on to something",
