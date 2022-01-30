@@ -206,3 +206,35 @@ experience, and it works in both ways. It enriches ecosystem. Makes the communit
 become more about people. Preserving Open Source independecy is a great value. It can raise transparency of the processes, remove
 overly protective barriers that waste people time. It is an interesting challenge and experiment, and I leave out any hardcoded
 advice here, because maybe you already have something to share on this journey.
+
+---
+
+# Making it work
+
+Make sure company NDA and Open Source Policies are visible. Creating an open company database (like EDGAR, but not from 19xxs) that
+contains up to date info and history will makes it easier for people to build lists of awesome companies.
+
+Proposing, publishing, exhanganging experince. There is a lot of ideas that we can write here, once the problem is acknowledged
+widely enough to make the next steps.
+
+# Post hackaton write up
+
+We've got a feedback, from which we've concluded that the problem of Open Source Sustainability is poorly represented in business,
+investment and government circles. And although we've got a lot of support to continue our activity, because "you on to something",
+going futher exactly in the way how it happens with Open Source maintainers and collaborators in not sustainable. We withdrew from
+from final presentation as participating there would give people an false impression that we the team that are going to deliver
+the product or solution. But we need to concentrate on helping ourselves first.
+
+The most important outcome was to realize that **companies, startups and governments are de-facto part of Open Source ecosystem,
+but they are not included in the Open Source community**. This disconnection is the next problem that needs to be fixed.
+
+That people in startup ecosystem, and especially investors are not aware of the strain that they indirectly put on Open Source
+maintainers by pressing startups to iterate fast and fix problems, that are often contained in Open Source libraries and products
+they are using. The lack of community connections results in different kind of conflicts that disrupt the ecosystem, makes eveyone
+feel bad, gives rise to security problems, and there are no physical obstacles that prevent us from finding proper solutions to
+make these conflicts fixed.
+
+Se hope that we could raise the awareness, that people at the hackaton could see the different cause of security problems with
+their products, and develop a business culture that integrates in Open Source community ecosystem in a healthy way that allows
+us all to make the next step in a conscious development of human beings that care to "Increase the general level of good will on
+planet Earth." (c) https://github.com/php/php-src/blob/master/CONTRIBUTING.md#git-commit-rules
